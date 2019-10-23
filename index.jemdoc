@@ -1,0 +1,50 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Zichang He's Homepage
+
+~~~
+{}{img_left}{Zichang.jpg}{alt text}{160}{160}
+PhD student,\n [https://www.ece.ucsb.edu/ Department of Electrical and Computer Engineering], \n[https://www.ucsb.edu/ UC Santa Barbara (UCSB)]\n
+Phone: \+1 (805)259-5216 \n
+E-mail: /zichanghe/ \[@\] ucsb \[DOT\] edu\n
+[https://scholar.google.com/citations?user=DYHuqXcAAAAJ&hl=en Google Schorlar], [https://www.researchgate.net/profile/Zichang_He Research Gate], [https://www.linkedin.com/in/zichang-he-0939a9125/ LinkedIn]
+~~~
+
+== About me
+I am a second-year PhD student in Electrical and Computer Engineering under the supervision of [https://www.ece.ucsb.edu/~zhengzhang/ Prof. Zheng Zhang]. 
+I received the B.Eng. degree in Detection, Gudiance and Control Technology from Northwestern Polytechnical University ([http://en.nwpu.edu.cn/ NWPU]), Xi'an, China in 2018 under the supervision of [http://en.uestc.edu.cn/index.php?m=content&c=index&a=show&catid=79&id=5320 Prof. Yong Deng] and [http://dianzi.nwpu.edu.cn/info/1290/8224.htm Prof. Wen Jiang].  
+During my undergraduate research, I was a research intern at the Hong Kong Polytechnic Unviersity [https://www.polyu.edu.hk/web/en/home/index.html (PolyU)] under the supervision of [https://www.polyu.edu.hk/ise/about/staff/20-about/staff/head-s-office/25-felix-ts-chan Prof. Felix Chan].
+
+== News
+Jun 4, 2019: One paper got accepted by ICCAD'19 (acceptance rate: 23.8%).
+
+== Research interests
+- Uncertainty Quantification  
+- Tensor/Matrix Computation: Statistical and Optimization
+- Decision Making under Uncertainty (including quantum probability)
+- Current research aims to develop general UQ and tensor techniques, and apply them to various applications including EDA, control systems, MRI, computer architecture, etc.
+
+== Teaching & Talks
+- Conference talk at /ICCAD/, Westminster, CO, USA: Nov. 2019
+- TA of /ECE 139 (Probability & Statistics)/, UCSB: Spring 2019 
+- Conference talk at /8th China Information Fusion Conference/, Xi’an, China: Jul. 2017
+
+== Academic Services
+Reviewer of /Information Sciences/, /Science China Information Sciences/, etc.
+
+== Selected Honors & Awards
+- The UCSB Graduate Fellowship in Department of ECE: 2018
+- The NWPU Special Scholarship of Yajun Wu and Aviation Industry Corporation of China (top 3%): 2016, 2017
+- Meritorious Winner in Interdisciplinary Contest in Modeling (awarded by COMAP): 2016
+
+== Publications 
+. *He, Z.*, Cui, W., Cui C., Sherwood, T. and Zhang, Z., Efficient uncertainty modeling for system design via mixed integer programming, accepted by /International Conf. Computer Aided Design (ICCAD)/, 8 pages, Westminster, CO, Nov. 2019.
+. *He, Z.* and Jiang, W., An evidential dynamical model to explain the interference effects of categorization on decision making results, /Knowledge-Based Systems/, 150 (2018): 139-149. *(Highly Cited Paper)*
+. *He, Z.* and Jiang, W., An evidential Markov decision making model, /Information Sciences/, 467 (2018): 357-372.
+. *He, Z.* and Jiang, W., A new belief Markov chain model and its application in inventory prediction, /International Journal of Production Research/, 56 (2018), 2800-2817.
+. *He, Z.*, Chan, Felix. T.S. and Jiang, W., A quantum framework for modelling subjectivity in multi-attribute group decision making, /Computers & Industrial Engineering/, 124 (2018): 560-572.
+. *He, Z.*, Jiang, W. and Chan, Felix. T.S., Evidential supplier selection based on interval data fusion, /International Journal of Fuzzy Systems/, 20 (2018): 1159-1171.
+. *He, Z.* and Jiang, W., Quantum mechanical approach to modelling reliability of sensor reports, /IEEE Sensors Letters/, 1 (2017): 1-4.
+. Tang, Y., Zhou, D., *He, Z.* and Xu, S., An improved belief entropy-based uncertainty management approach for sensor data fusion, /International Journal of Distributed Sensor Networks/, 137 (2017): 1550147717718497.
+. Tang, Y., Zhou, D., Xu, S. and *He, Z.*, A weighted belief entropy-based uncertainty measure for multi-sensor data fusion, /Sensors/, 17(4) (2017): 928.
+. Jiang, W., Cao, Y., Yang, L. and *He, Z.*, A Time-Space domain information fusion method for specific emitter identification based on Dempster-Shafer evidence theory, /Sensors/, 17(9) (2017): 1972.
+
